@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @probasketball
+- 👋 Hi, I’m @darelife
 - 👀 I’m interested in bastketball, tennis, coding & playing a guitar
 - 🌱 I’m currently learning python
 
