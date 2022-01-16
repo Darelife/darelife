@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @darelife
-- 👀 I’m interested in bastketball, tennis, coding & playing a guitar
-- 🌱 I’m currently learning python
+- 🌱 I'm learning python, js and kotlin
 
 <!---
 probasketball/probasketball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
