@@ -4,18 +4,11 @@ Hi 👋 My name is Prakhar
 Student
 -------
 
-I started coding in 2020 (class 10) when the covid 19 pandemic started. I coded a discord bot with a lot of functionalities, which actually made me super interested in coding. I'm mainly focused on python, but, i've been trying to learn web development too (js + css + html). I've also been trying to focus a bit on machine learning and NLP with python. I grew up in Kuwait, did my class 9 and 10th in Mumbai, and am currently in class 12 in Jaipur, preparing for JEE mains + adv.
+I started coding in 2020 (class 10) when the covid 19 pandemic started. I coded a discord bot with a lot of functionalities, which actually made me super interested in coding. I'm mainly focused on python, but, i've been trying to learn web development too (js + css + html). I've also been trying to focus a bit on machine learning and NLP with python. I grew up in Kuwait, did my class 9 and 10th in Mumbai, did my class 11 and 12 in Jaipur, preparing for JEE mains + adv. I am now in BITS Pilani, Goa Campus, pursuing CSE.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [prakharb2k6@gmail.com](mailto:prakharb2k6@gmail.com)
-*   🧠  I'm learning Python
-### Skills
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+*   🧠  I know Python, C++, and WebD. [Partially worked on ML]
                     
  ### Socials
 <p align="left">
