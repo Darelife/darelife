@@ -8,7 +8,7 @@ I started coding in 2020 (class 10) when the covid 19 pandemic started. I coded 
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [prakharb2k6@gmail.com](mailto:prakharb2k6@gmail.com)
-*   🧠  I know Python, C++, and WebD. [Partially worked on ML]
+*   🧠  I know Python, C++, and WebD (Almost done with mern stack)
                     
  ### Socials
 <p align="left">
