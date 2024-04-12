@@ -11,7 +11,7 @@ I started coding in 2020 (class 10) when the covid 19 pandemic started. I coded 
 *   🧠  I know Python, C++, and WebD (Almost done with mern stack)
                     
  ### Socials & Other Id's
-Discord Username : Darelife
+Discord Username : Darelife<br>
 Codeforces Username : Darelife
 
  ### Badges : My GitHub Stats
