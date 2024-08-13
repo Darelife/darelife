@@ -4,6 +4,9 @@ I started coding in 2020 (class 10) when the covid 19 pandemic started. I coded 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzprakhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharbhandari13) 
+
+- 💡 CodeForces : [Darelife](https://codeforces.com/profile/Darelife)
+- 🥷 LeetCode : [Darelife](https://leetcode.com/u/darelife/)
 - 📫 How to reach me **prakharb2k6@gmail.com**
 
 # 💻 Tech Stack:
