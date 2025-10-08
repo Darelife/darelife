@@ -27,5 +27,6 @@ I started coding in 2020 (class 10) when the Covid 19 pandemic started. I coded 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darelife&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=darelife)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
