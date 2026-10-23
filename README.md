@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a Computer Science undergraduate at **BITS Pilani, Goa Campus**, passionate about systems engineering, low-level architecture, and machine learning internals. 
+I am a Computer Science undergraduate at **BITS Pilani, Goa Campus**, exploring a wide variety of technologies and engineering domains across the software stack.
 
 My journey started in 2020 during the pandemic when I built a Discord bot in Python. It sparked a deep interest in software engineering. My path has taken me from growing up across Kuwait, Mumbai, and Jaipur through the JEE grind, to BITS Goa, building software, and tackling algorithmic challenges.
 
