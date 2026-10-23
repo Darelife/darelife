@@ -5,7 +5,7 @@ I am a Computer Science undergraduate at **BITS Pilani, Goa Campus**, passionate
 My journey started in 2020 during the pandemic when I built a Discord bot in Python. It sparked a deep interest in software engineering. My path has taken me from growing up across Kuwait, Mumbai, and Jaipur through the JEE grind, to BITS Goa, building software, and tackling algorithmic challenges.
 
 - 🎓 **Education:** B.E. in Computer Science at BITS Pilani, Goa Campus
-- 💼 **Experience:** Incoming SWE Intern at **Earnin** (2027) | Ex-SWE Intern at **Google** (Datastream, GCP)
+- 💼 **Experience:** Incoming Platform Engineering Intern at **Earnin** (2027) | Ex-SWE Intern at **Google** (Datastream, GCP)
 - 🚀 **Next Up:** Incoming Software Engineer at **Google** (July 2027)
 - 🎯 **Hobbies:** Competitive programming ([Codeforces Peak: 1643](https://codeforces.com/profile/Darelife)), playing guitar, speedcubing, basketball, tennis, and running
 ## 🌐 Socials:
