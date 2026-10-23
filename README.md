@@ -1,7 +1,13 @@
 # 💫 About Me:
-I started coding in 2020 (class 10) when the Covid 19 pandemic started. I coded a discord bot with many functionalities, which made me super interested in coding. I initially began with Python. Now, I also know C, C++, JS, React, & Rust. I’m interested in learning more about machine learning models and the inner workings of computers in depth. My hobbies include competitive programming (Codeforces Peak Rating: 1643), playing guitar, and cubing. I grew up in Kuwait, did my class 9 and 10th in Mumbai, and 11th and 12 in Jaipur, while preparing for JEE mains + adv.<br>I am now in BITS Pilani, Goa Campus, pursuing CSE. I was also an intern at Google in the Datastream team (GCP).
 
+I am a Computer Science undergraduate at **BITS Pilani, Goa Campus**, passionate about systems engineering, low-level architecture, and machine learning internals. 
 
+My journey started in 2020 during the pandemic when I built a Discord bot in Python. It sparked a deep interest in software engineering. My path has taken me from growing up across Kuwait, Mumbai, and Jaipur through the JEE grind, to BITS Goa, building software, and tackling algorithmic challenges.
+
+- 🎓 **Education:** B.E. in Computer Science at BITS Pilani, Goa Campus
+- 💼 **Experience:** Incoming SWE Intern at **Earnin** (2027) | Ex-SWE Intern at **Google** (Datastream, GCP)
+- 🚀 **Next Up:** Incoming Software Engineer at **Google** (July 2027)
+- 🎯 **Hobbies:** Competitive programming ([Codeforces Peak: 1643](https://codeforces.com/profile/Darelife)), playing guitar, speedcubing, basketball, tennis, and running
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharbhandari13) 
 
